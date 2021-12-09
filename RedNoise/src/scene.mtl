@@ -1,0 +1,72 @@
+newmtl White
+Kd 1.000000 1.000000 1.000000
+
+newmtl Grey
+Kd 0.700000 0.700000 0.700000
+
+newmtl Mirror
+Kd 0.017 .550 1.000
+
+newmtl Glass
+Kd 0.000000 0.800000 0.800000
+
+newmtl Red
+Kd 1.000000 0.000000 0.000000
+
+newmtl Green
+Kd 0.000000 1.000000 0.000000
+
+newmtl Blue
+Kd 0.000000 0.000000 1.000000
+
+newmtl Yellow
+Kd 1.000000 1.000000 0.000000
+
+newmtl Magenta
+Kd 1.000000 0.000000 1.000000
+
+newmtl Cyan
+Kd 0.000000 1.000000 1.000000
+
+newmtl Orange
+Kd 0.800 0.216 0.000
+
+newmtl Fire1
+Kd 0.800 0.065 0.038
+
+newmtl Ice1
+Kd 0.189 .653 1.000
+
+newmtl Ice2
+Kd 0.017 .550 1.000
+
+newmtl Ice3
+Kd 0.018 .294 1.000
+
+newmtl Brown
+Kd 0.800 .265 .109
+
+newmtl Earth1
+Kd 0.800 .687 .287
+
+newmtl Earth2
+Kd 0.800 .391 .018
+
+newmtl Lava
+Kd 0.800 0.012 0.039
+map_Kd texture.ppm
+
+newmtl Snow
+Kd 0.591 0.684 0.800000
+map_Kd texture.ppm
+
+newmtl Sand
+Kd 1.00000 1.000000 0.000000
+map_Kd texture.ppm
+
+newmtl Cobbles2
+Kd 0.000000 1.000000 0.000000
+
+newmtl Cobbles
+Kd 0.000000 1.000000 0.000000
+map_Kd texture.ppm
